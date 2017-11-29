@@ -42,7 +42,7 @@
             "color": "#2c2c2c",
             "hamburgerColor": "#ffffff"
           },
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"assets/files/parv_parkhiya_resume.pdf\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD CV</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"assets/files/parv_parkhiya_resume.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DOWNLOAD CV</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -60,7 +60,7 @@
               "color": "#ffffff"
             }
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">Home</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">Projects</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://medium.com/@parkhiyaa\" target=\"_blank\">Blog</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\" target=\"_blank\">Game</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">Contact</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">Home</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">Projects</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://medium.com/@parkhiyaa\" target=\"_blank\">Blog</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://parvparkhiya.github.io/page3.html\" target=\"_blank\">Game</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">Contact</a></li>",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/westworld-logo-0f4b6bf045-seeklogo.com-2-189x128.png",
@@ -73,12 +73,12 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
               "linkInNewWindow": false,
-              "name": "github",
+              "name": "home",
               "family": "MobiriseIcons",
-              "link": "https://github.com/parvparkhiya",
+              "link": "index.html",
               "size": 0,
               "active": true,
-              "newWindow": true
+              "newWindow": false
             }
           },
           "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
@@ -108,7 +108,7 @@
           },
           "title": "Parv Parkhiya",
           "text": "Dreamer, Science Geek, Pro-Gamer but Storyteller by Heart!",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"assets/files/parv_parkhiya_resume.pdf\" data-toolbar=\"-mbrBtnMove\">Download CV</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"assets/files/parv_parkhiya_resume.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Download CV</a> ",
           "_tags": [
             "Theme"
           ],
@@ -536,7 +536,7 @@
           "title": "Video Game:<br>Akbar-Birbal and<br>the Mystery of Unaltered Dream",
           "meta": "By Parv Parkhiya and Diplav Srivastava (Monsoon 2016)",
           "text": "<p>It's a small narrative driven puzzle based top down 2D role-playing video game made in unity. It consists of original story with multiple choices at various stages leading to multiple endings. Along with giving historical perspective of medieval India, it challenges player with tough moral choices and situation based puzzles. Polished version of game is playable in windows using gyroscope sensor of android phone. Crude ported version can be played online using keyboard. &nbsp; &nbsp;</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Play Online</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://parvparkhiya.github.io/page3.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Play Online</a>",
           "_tags": [
             "Theme"
           ],
@@ -602,7 +602,7 @@
             "color": "#2c2c2c",
             "hamburgerColor": "#ffffff"
           },
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"assets/files/parv_parkhiya_resume.pdf\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD CV</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"assets/files/parv_parkhiya_resume.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DOWNLOAD CV</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -620,7 +620,7 @@
               "color": "#ffffff"
             }
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">Home</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">Projects</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://medium.com/@parkhiyaa\" target=\"_blank\">Blog</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\" target=\"_blank\">Game</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">Contact</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">Home</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">Projects</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://medium.com/@parkhiyaa\" target=\"_blank\">Blog</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://parvparkhiya.github.io/page3.html\" target=\"_blank\">Game</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">Contact</a></li>",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/westworld-logo-0f4b6bf045-seeklogo.com-2-189x128.png",
@@ -633,12 +633,12 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
               "linkInNewWindow": false,
-              "name": "github",
+              "name": "home",
               "family": "MobiriseIcons",
-              "link": "https://github.com/parvparkhiya",
+              "link": "index.html",
               "size": 0,
               "active": true,
-              "newWindow": true
+              "newWindow": false
             }
           },
           "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
@@ -666,7 +666,7 @@
             "color": "#2c2c2c",
             "hamburgerColor": "#ffffff"
           },
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"assets/files/parv_parkhiya_resume.pdf\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD CV</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"assets/files/parv_parkhiya_resume.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DOWNLOAD CV</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -684,7 +684,7 @@
               "color": "#ffffff"
             }
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">Home</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">Projects</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://medium.com/@parkhiyaa\" target=\"_blank\">Blog</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\" target=\"_blank\">Game</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">Contact</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">Home</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">Projects</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://medium.com/@parkhiyaa\" target=\"_blank\">Blog</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://parvparkhiya.github.io/page3.html\" target=\"_blank\">Game</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">Contact</a></li>",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/westworld-logo-0f4b6bf045-seeklogo.com-2-189x128.png",
@@ -697,12 +697,12 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
               "linkInNewWindow": false,
-              "name": "github",
+              "name": "home",
               "family": "MobiriseIcons",
-              "link": "https://github.com/parvparkhiya",
+              "link": "index.html",
               "size": 0,
               "active": true,
-              "newWindow": true
+              "newWindow": false
             }
           },
           "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
@@ -728,7 +728,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>CURRENT ADDRESS</strong><br>102, Old Boys Hostel (OBH),&nbsp;<br>IIIT-H Campus,<br>Gachibowli,&nbsp;<br>Hyderabad - 500032<br>Telangana, India<br><br><b>Email</b><br> parvparkhiya@live.com<br>parv.parkhiya@students.iiit.ac.in<br><br><b>Mobile Phone:</b><br>\n(+91) 9408948146<br><br>",
+          "text1": "<strong>CURRENT ADDRESS</strong><br>102, Old Boys Hostel (OBH),&nbsp;<br>IIIT-H Campus,<br>Gachibowli,&nbsp;<br>Hyderabad - 500032<br>Telangana, India<br><br><b>Email</b><br> <a href=\"mailto:parvparkhiya@live.com\">parvparkhiya@live.com</a><br><a href=\"mailto:parv.parkhiya@students.iiit.ac.in\">parv.parkhiya@students.iiit.ac.in</a><br><br><b>Mobile Phone:</b><br>\n(+91) 9408948146<br><br>",
           "text2": "<p class=\"mbr-contacts__text\"><br></p>",
           "_tags": [
             "Theme"
@@ -847,7 +847,7 @@
             "color": "#2c2c2c",
             "hamburgerColor": "#ffffff"
           },
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"assets/files/parv_parkhiya_resume.pdf\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD CV</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"assets/files/parv_parkhiya_resume.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DOWNLOAD CV</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -865,7 +865,7 @@
               "color": "#ffffff"
             }
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">Home</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">Projects</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://medium.com/@parkhiyaa\" target=\"_blank\">Blog</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\" target=\"_blank\">Game</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">Contact</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">Home</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">Projects</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://medium.com/@parkhiyaa\" target=\"_blank\">Blog</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://parvparkhiya.github.io/page3.html\" target=\"_blank\">Game</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">Contact</a></li>",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/westworld-logo-0f4b6bf045-seeklogo.com-2-189x128.png",
@@ -878,12 +878,12 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
               "linkInNewWindow": false,
-              "name": "github",
+              "name": "home",
               "family": "MobiriseIcons",
-              "link": "https://github.com/parvparkhiya",
+              "link": "index.html",
               "size": 0,
               "active": true,
-              "newWindow": true
+              "newWindow": false
             }
           },
           "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
