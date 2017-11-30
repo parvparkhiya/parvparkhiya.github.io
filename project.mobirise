@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Parv_Parkhiya_Personal",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -450,7 +450,7 @@
             }
           },
           "title": "Doubly Convolutional Neural Networks(DCNN)Implementation",
-          "text": "<p>Parameter sharing is the major reason of success of building large models for deep neural networks. The paper proposed by Shuangfei Zhai, Yu Cheng,\n Weining Lu and Zhongfei (Mark) Zhang (NIPS 2016) introduces the idea of Doubly Convolutional Neural Networks, which significantly improves the performance of CNN with the same number of parameters. We have implented DCNN as a part of Statistical &nbsp;Methods in AI Project.</p>",
+          "text": "<p>Parameter sharing is the major reason of success of building large models for deep neural networks. The paper proposed by Shuangfei Zhai, Yu Cheng,\n Weining Lu and Zhongfei Zhang (NIPS 2016) introduces the idea of Doubly Convolutional Neural Networks, which significantly improves the performance of CNN with the same number of parameters. We have implemented DCNN as a part of Statistical &nbsp;Methods in AI Project.</p>",
           "_tags": [
             "Theme"
           ],
