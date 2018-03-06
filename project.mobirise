@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Parv_Parkhiya_Personal",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -14,7 +14,7 @@
       ]
     },
     "versionFirst": "4.5.0",
-    "uniqCompNum": 28,
+    "uniqCompNum": 29,
     "versionPublish": "4.5.0",
     "favicon": "",
     "noImageResize": ""
@@ -138,7 +138,7 @@
             },
             "overlay": true,
             "overlayColor": "#28324e",
-            "overlayOpacity": "0.8"
+            "overlayOpacity": "0.3"
           },
           "media": {
             "image": {
@@ -298,7 +298,7 @@
               "src": "images/iphone.png"
             },
             "video": {
-              "src": "https://youtu.be/MvUsxkG3Gsg",
+              "src": "https://www.youtube.com/watch?v=jzZl4RUq5-Y",
               "aspectratio": "4:3",
               "autoplay": false,
               "loop": "on",
@@ -333,7 +333,7 @@
             }
           },
           "headerAlign": "left",
-          "meta": "IEEE ICRA 2018 (Submitted) by Parv Parkhiya (first author), Rishabh Khawad, J. Krishna Murthy, Brojeshwar Bhowmick and K. Madhava Krishna&nbsp;<br>",
+          "meta": "IEEE ICRA 2018 (Accepted) by Parv Parkhiya (first author), Rishabh Khawad, <br>J. Krishna Murthy, Brojeshwar Bhowmick and K. Madhava Krishna&nbsp;<br>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"assets/files/ICRA18.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Paper</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-m"
@@ -544,53 +544,6 @@
           "_anchor": "msg-box5-q"
         },
         {
-          "_inherit": "msg-box3",
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "text-align": "center",
-              "color": "#fff"
-            },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "center",
-              "color": "#fff"
-            },
-            ".mbr-article": {
-              "color": "#fff"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showCaption": "noCaption",
-            "showText": true,
-            "showButton": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": true,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "darkBackground": true,
-            "overlay": true,
-            "overlayColor": "#28324e",
-            "overlayOpacity": 0.2
-          },
-          "title": "Many More Projects In Progress",
-          "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "meta": "By John Smith posted July 30, 2015",
-          "_name": "content5",
-          "_anchor": "content5-k"
-        },
-        {
           "_inherit": "menu",
           "_params": {
             "logo": true,
@@ -644,6 +597,124 @@
           "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-2"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f97352",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "images/iphone.png"
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "linkInNewWindow": false,
+              "name": "camera",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0,
+              "active": true
+            }
+          },
+          "title": "Camera Model Identification<br><br>",
+          "text": "<p>We apply the algorithm proposed by Chen etal\n to identify camera models. The algorithm assumes that CFA pattern used by the device is GBRG. Local co-occurrence features are computed using multiple interpolation algorithms (example nearest neighbour, bilinear). A multi-class linear SVM is trained with these features and employed to classify the given image to one of the camera classes. Some observations have been made with respect to validation accuracy of the model and the results obtained on Kaggle.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "text-align": "left"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "Parv Parkhiya, Navyasri Reddy, Akshay Vyas, Vivek Jain, Diplav Srivastava, <br>Dr. V. Lalitha (Spring 2018)",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"assets/files/SPCup_2018_Report.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Report</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://github.com/parvparkhiya/Camera-Model-Identification-Based-on-Local-Co-Occurrence-Features\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Code</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-s"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": true,
+            "overlay": true,
+            "overlayColor": "#28324e",
+            "overlayOpacity": 0.2
+          },
+          "title": "Many More Projects In Progress",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "_name": "content5",
+          "_anchor": "content5-k"
         }
       ]
     },
