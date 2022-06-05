@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Parv Parkhiya</title>
+    <link>https://parvparkhiya.github.io/</link>
+      <atom:link href="https://parvparkhiya.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Parv Parkhiya</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://parvparkhiya.github.io/media/icon_hu651937ae150e4d5d4164cf9501a55289_56927_512x512_fill_lanczos_center_3.png</url>
+      <title>Parv Parkhiya</title>
+      <link>https://parvparkhiya.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Trajectory Planning with non-holonomic constraints and obstacle avoidance</title>
+      <link>https://parvparkhiya.github.io/project/planning/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://parvparkhiya.github.io/project/planning/</guid>
+      <description>&lt;p&gt;Autonomous vehicles operating in the real world will not always know about all obstacles in the environment. Thus, the vehicle must have the ability to plan and re-plan trajectories around known obstacles and emerging obstacles in the environment. Currently, there are many trajectory search algorithms for autonomous driving vehicles. In this paper, we explore the most prominent trajectory search algorithms like RRT, A*, and R*. Our goal is to implement these algorithms to compare them with one another and determine their strengths and weaknesses. We also implement a minor extension to efficiently update the RRT in case of new obstacle information without re-planning from scratch.&lt;/p&gt;
+&lt;p&gt;Demo running live on the server can be accessed &lt;a href=&#34;https://webapprrt.herokuapp.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; (might take a minute to spin up the server)&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/HqYZ0Xubxe0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Dynamic SLAM using landscape theory of aggregation [Implementation]</title>
+      <link>https://parvparkhiya.github.io/project/dslam/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://parvparkhiya.github.io/project/dslam/</guid>
+      <description>&lt;p&gt;Simultaneous Localization and Mapping (SLAM) is an essential part of any mobile robot. While the current stateof-the-art approach solves the problem in a static environment reasonably well, the performance in a dynamic environment is hit or miss. The traditional SLAM method assumes that the number of measurements from static objects would be large enough to dominate measurements from dynamic objects. We advocate for the explicit filtering of measurements from dynamic objects for better localization and mapping performance. We use the landscape theory of aggregation method to form an optimization problem. We observe the measurements for a timewindow and compute weights for the optimization. We perform gradient descent to minimize the energy to classify and filter out measurements from dynamic objects. Finally, using ROS’s GMapping Package we show improved SLAM output.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/_B_P1TQPGAs&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>PhoeniX - UAV-AGV Firefighting System</title>
+      <link>https://parvparkhiya.github.io/project/phoenix/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://parvparkhiya.github.io/project/phoenix/</guid>
+      <description>&lt;p&gt;Structural-fire has caused 2,640 civilian deaths and material loss of 9.7 Billion USD in the US alone in the year 2011 as per the National Fire Protection Association. Time is of the essence when it comes to tackling most of the fire incidents.&lt;/p&gt;
+&lt;p&gt;The PhoeniX team proposes a cutting-edge, fully autonomous, heterogeneous, multi-agent robotic systems to collaboratively locate and extinguish the fire without any human intervention in an unknown environment. Our system comprises a UAV (Unmanned Aerial Vehicle) and an AGV (Automated Ground Vehicle) equipped with a thermal camera that uses image segmentation methods for detecting and localizing the fire. Our system uses depth cameras to simultaneously create a real-time 3D map of the environment and localize itself in that map. The system uses state-of-the-art algorithms to explore the environment while avoiding collisions. The UAV has roughly 20 minutes of flight time, high payload capacity (1 Kg), and improved stability that can be attributed to its DJI Matrice M210 V2 platform. Both vehicles carry extinguishing material which they can strategically deploy on the target fire.&lt;/p&gt;
+&lt;p&gt;The UAV and the AGV share information of the fire location with each other to make smart decisions resulting in a timely &amp;amp; efficient response. The PhoeniX firefighting system attempts to push the technological boundaries to create a net positive impact on mankind.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/89ii5Gi862o&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Taking Out Trash</title>
+      <link>https://parvparkhiya.github.io/project/trash/</link>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://parvparkhiya.github.io/project/trash/</guid>
+      <description>&lt;p&gt;Modeled picking and placing trash bin skill using manipulator arm of Locobot robotic platform as Gaussian Process (GP) to enable imitation based skill learning from single demonstration&lt;/p&gt;
+&lt;p&gt;The objective of this project is to design a robot which can move a small trash can from its original place to a target place. Basically, what it should do are as follows: first, it should be able to navigate in the working environment. It should be able to detect the trash can, and move towards to it by using visual servoing. Then, it can use some grasping mechanism to carry the trash can with it and move to the target position. Finally, the robot puts down the trash can in the target area, and moves itself back to rest area. When conducting its mission, the robot should be able to hold the trash can steadily and not spill the trash out of the trash can. In addition, the robot is going to operate in the corridors in the teaching building, it should have a suitable physical size and make very little noise.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/zK49eIqJDW0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Integrating Objects into Monocular SLAM: Line Based Category Specific Models</title>
+      <link>https://parvparkhiya.github.io/publication/line_object_slam/</link>
+      <pubDate>Sun, 02 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://parvparkhiya.github.io/publication/line_object_slam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling Motion of Stereotypical Dynamic Objects for Efficient Interaction</title>
+      <link>https://parvparkhiya.github.io/project/dmp/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://parvparkhiya.github.io/project/dmp/</guid>
+      <description>&lt;p&gt;Incorporated Dynamic Movement Primitives (DMP) approach to model stereo typical motion in data efficient manner and used that model to predict trajectory and goal location from a partially observed trajectory.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Constructing Category-Specific Models for Monocular Object-SLAM</title>
+      <link>https://parvparkhiya.github.io/project/oslam/</link>
+      <pubDate>Fri, 02 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://parvparkhiya.github.io/project/oslam/</guid>
+      <description>&lt;p&gt;We present a new paradigm for real-time object-oriented SLAM with a monocular camera. Contrary to previous approaches, that rely on object-level models, we construct category-level models from CAD collections which are now widely available. To alleviate the need for huge amounts of labeled data, we develop a rendering pipeline that enables synthesis of large datasets from a limited amount of manually labeled data. Using data thus synthesized, we learn category-models for object deformations in 3D, as well as discriminative object features in 2D. These category models are instance-independent and aid in the design of object landmark observations that can be incorporated into a generic monocular SLAM framework. Where typical object-SLAM approaches usually solve only for object and camera poses, we also estimate object shape on-the-fly, allowing for a wide range of objects from the category to be present in the scene. Moreover, since our 2D object features are learned discriminatively, the proposed object-SLAM system succeeds in several scenarios where sparse feature-based monocular SLAM fails due to insufficient features or parallax. Also, the proposed category-models help in object instance retrieval, useful for Augmented Reality (AR) applications. We evaluate the proposed framework on multiple challenging real-world scenes and show — to the best of our knowledge — first results of an instance-independent monocular object-SLAM system and the benefits it enjoys over feature-based SLAM methods.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/jzZl4RUq5-Y&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Constructing Category-Specific Models for Monocular Object-SLAM</title>
+      <link>https://parvparkhiya.github.io/publication/object_slam/</link>
+      <pubDate>Fri, 02 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://parvparkhiya.github.io/publication/object_slam/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/jzZl4RUq5-Y&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Camera Model Identification</title>
+      <link>https://parvparkhiya.github.io/project/cmi/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://parvparkhiya.github.io/project/cmi/</guid>
+      <description>&lt;p&gt;We apply the algorithm proposed by Chen etal to identify camera models. The algorithm assumes that CFA pattern used by the device is GBRG. Local co-occurrence features are computed using multiple interpolation algorithms (example nearest neighbour, bilinear). A multi-class linear SVM is trained with these features and employed to classify the given image to one of the camera classes. Some observations have been made with respect to validation accuracy of the model and the results obtained on Kaggle.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Augmented Reality 3D Room Decore Preview</title>
+      <link>https://parvparkhiya.github.io/project/ar/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://parvparkhiya.github.io/project/ar/</guid>
+      <description>&lt;p&gt;We have developed a Matlab application to add 3D model of chair, lamp, cycle, vase etc in a captured real world image so that it could simulate how would room look like if the object was really present in that environment. For that, we place a simple marker where we have to put the 3D model and acquire the information of placement and orientation of the marker in 3d space, we place our 3D model with same orientation as that of marker. Followed by blending it with captured image.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Doubly Convolutional Neural Networks [Implementation]</title>
+      <link>https://parvparkhiya.github.io/project/dcnn/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://parvparkhiya.github.io/project/dcnn/</guid>
+      <description>&lt;p&gt;Parameter sharing is the major reason of success of building large models for deep neural networks. The paper proposed by Shuangfei Zhai, Yu Cheng, Weining Lu and Zhongfei Zhang (NIPS 2016) introduces the idea of Doubly Convolutional Neural Networks, which significantly improves the performance of CNN with the same number of parameters. We have implemented DCNN as a part of Statistical  Methods in AI Project.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Video Game - Akbar-Birbal and the Mystery of Unaltered Dream</title>
+      <link>https://parvparkhiya.github.io/project/game/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://parvparkhiya.github.io/project/game/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s a small narrative driven puzzle based top down 2D role-playing video game made in unity. It consists of original story with multiple choices at various stages leading to multiple endings. Along with giving historical perspective of medieval India, it challenges player with tough moral choices and situation based puzzles. Polished version of game is playable in windows using gyroscope sensor of android phone. Crude ported version can be played online using keyboard.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;../../uploads/game.html&#34;&gt;Play Online Here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://parvparkhiya.github.io/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://parvparkhiya.github.io/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

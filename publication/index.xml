@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Parv Parkhiya</title>
+    <link>https://parvparkhiya.github.io/publication/</link>
+      <atom:link href="https://parvparkhiya.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 02 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://parvparkhiya.github.io/media/icon_hu651937ae150e4d5d4164cf9501a55289_56927_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>https://parvparkhiya.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>Integrating Objects into Monocular SLAM: Line Based Category Specific Models</title>
+      <link>https://parvparkhiya.github.io/publication/line_object_slam/</link>
+      <pubDate>Sun, 02 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://parvparkhiya.github.io/publication/line_object_slam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Constructing Category-Specific Models for Monocular Object-SLAM</title>
+      <link>https://parvparkhiya.github.io/publication/object_slam/</link>
+      <pubDate>Fri, 02 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://parvparkhiya.github.io/publication/object_slam/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/jzZl4RUq5-Y&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>
